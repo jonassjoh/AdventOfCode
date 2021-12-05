@@ -36,6 +36,10 @@ a:visited {
   color: rgb(0, 80, 160);
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 label {
   display: block;
 }

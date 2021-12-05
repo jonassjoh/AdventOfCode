@@ -1,6 +1,4 @@
 <script>
-  import { prevent_default } from "svelte/internal";
-
   import { _sample, _input } from "./input.js";
 
   const input = _input.split("\n").map(Number);
